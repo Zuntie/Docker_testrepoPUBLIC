@@ -1,5 +1,5 @@
-console.log('[1] Hello from Docker! 2')
+console.log('[1] Hello from Docker! Public')
 
 setInterval(() => {
-    console.log('Hello from Docker! 2')
+    console.log('Hello from Docker! Public')
 }, 5000)
